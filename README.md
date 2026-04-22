@@ -30,60 +30,64 @@
 ---
 ### Project File Structure 
 
-`src/`
-`├── AcademicThigns`
-`│   ├── Attestation.class`
-`│   ├── Attestation.java`
-`│   ├── Enrollment.class`
-`│   ├── Enrollment.java`
-`│   ├── Major.class`
-`│   ├── Major.java`
-`│   ├── Subject.class`
-`│   └── Subject.java`
-`├── Adamdar`
-`│   ├── Adam.class`
-`│   ├── Adam.java`
-`│   ├── Admin.class`
-`│   ├── Admin.java`
-`│   ├── Dean.java`
-`│   ├── Employee.class`
-`│   ├── Employee.java`
-`│   ├── Eva.class`
-`│   ├── Eva.java`
-`│   ├── Manager.java`
-`│   ├── Student.class`
-`│   ├── Student.java`
-`│   ├── Teacher.class`
-`│   └── Teacher.java`
-`├── Application`
-`│   ├── DataStorage.class`
-`│   ├── DataStorage.java`
-`│   ├── Main.class`
-`│   ├── Main.java`
-`│   ├── Printer.class`
-`│   ├── Printer.java`
-`│   ├── VVSP.class`
-`│   ├── VVSP.java`
-`│   └── Window.class`
-`├── Enums`
-`│   ├── ACCESS_RIGHT.class`
-`│   ├── ACCESS_RIGHT.java`
-`│   ├── GENDER.class`
-`│   ├── GENDER.java`
-`│   ├── PROGRAMS.class`
-`│   ├── PROGRAMS.java`
-`│   ├── SCHOOLS.class`
-`│   ├── SCHOOLS.java`
-`│   ├── STATUS.class`
-`│   ├── STATUS.java`
-`│   ├── TEACHER_LVL.class`
-`│   └── TEACHER_LVL.java`
-`├── Research`
-`│   ├── ResearchDELO.class`
-`│   ├── ResearchDELO.java`
-`│   ├── ResearchPaper.java`
-`│   ├── ResearchProject.java`
-`│   ├── Researcher.class`
-`│   └── Researcher.java`
-`└── admins.ser`
-`6 directories, 50 files`
+.
+├── README.md
+├── UMLka.mdj
+└── src
+    ├── AcademicThigns
+    │   ├── Attestation.class
+    │   ├── Attestation.java
+    │   ├── Enrollment.class
+    │   ├── Enrollment.java
+    │   ├── Major.class
+    │   ├── Major.java
+    │   ├── Subject.class
+    │   └── Subject.java
+    ├── Adamdar
+    │   ├── Adam.class
+    │   ├── Adam.java
+    │   ├── Admin.class
+    │   ├── Admin.java
+    │   ├── Dean.java
+    │   ├── Employee.class
+    │   ├── Employee.java
+    │   ├── Eva.class
+    │   ├── Eva.java
+    │   ├── Manager.java
+    │   ├── Student.class
+    │   ├── Student.java
+    │   ├── Teacher.class
+    │   └── Teacher.java
+    ├── Application
+    │   ├── DataStorage.class
+    │   ├── DataStorage.java
+    │   ├── Main.class
+    │   ├── Main.java
+    │   ├── Printer.class
+    │   ├── Printer.java
+    │   ├── VVSP.class
+    │   ├── VVSP.java
+    │   └── Window.class
+    ├── Enums
+    │   ├── ACCESS_RIGHT.class
+    │   ├── ACCESS_RIGHT.java
+    │   ├── GENDER.class
+    │   ├── GENDER.java
+    │   ├── PROGRAMS.class
+    │   ├── PROGRAMS.java
+    │   ├── SCHOOLS.class
+    │   ├── SCHOOLS.java
+    │   ├── STATUS.class
+    │   ├── STATUS.java
+    │   ├── TEACHER_LVL.class
+    │   └── TEACHER_LVL.java
+    ├── Research
+    │   ├── ResearchDELO.class
+    │   ├── ResearchDELO.java
+    │   ├── ResearchPaper.java
+    │   ├── ResearchProject.java
+    │   ├── Researcher.class
+    │   └── Researcher.java
+    └── admins.ser
+
+7 directories, 52 files
